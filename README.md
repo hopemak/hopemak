@@ -14,6 +14,12 @@
       margin:0 auto;
     " />
 </p>
+
+<h2 align="center">🤖 AI & Learning</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
 <p align="center">
   <b>🚀 Building Hope Mak Daily AI | Full Stack | Flutter | AI Engineer</b>
 </p>
