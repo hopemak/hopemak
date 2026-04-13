@@ -1,13 +1,12 @@
+<h2 align="center">📊 Developer Overview</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:1f4e5f,100:2c5364&text=Abdi%20Mekonin&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Flutter%20Developer%20|%20AI%20Engineer&descAlignY=58&descSize=20" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hopemak" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/hopemak/hopemak/blob/main/photo_2025-11-29_06-49-10.jpg?raw=true"
-       width="160"
-       style="border-radius:50%; border:4px solid #2c5364; padding:5px; background:#0f2027;" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hopemak" />
 </p>
-
 
 <h2 align="center">🛠️ Full Tech Stack</h2>
 
