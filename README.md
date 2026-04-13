@@ -3,6 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:1f4e5f,100:2c5364&text=Abdi%20Mekonin&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Flutter%20Developer%20|%20AI%20Engineer&descAlignY=58&descSize=20" />
 </p>
 
+<!-- CENTER PROFILE IMAGE -->
+<p align="center" style="margin-top:-80px;">
+  <img 
+    src="https://raw.githubusercontent.com/hopemak/hopemak/main/2025-11-29_06-49-10.jpg"
+    width="150"
+    height="150"
+    style="border-radius:50%; border:5px solid white; box-shadow:0 0 20px rgba(0,0,0,0.3);" />
+</p>
 
 <p align="center">
   <b>🚀 Building Hope Mak Daily AI | Full Stack | Flutter | AI Engineer</b>
