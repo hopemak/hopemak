@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://github.com/hopemak/hopemak/blob/main/photo_2025-11-29_06-49-10.jpg?raw=true" width="150" />
+</p>
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Abdi%20Mekonin&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Flutter%20Developer%20|%20AI%20Engineer&descAlignY=58&descSize=20" />
 </p>
 
