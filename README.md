@@ -1,12 +1,4 @@
-<h2 align="center">📊 Developer Overview</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hopemak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hopemak" />
-</p>
 
 <h2 align="center">🛠️ Full Tech Stack</h2>
 
@@ -48,11 +40,11 @@
 <h2 align="center">📊 Developer Overview</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hopemak&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2c5364&icon_color=2c5364" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hopemak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopemak&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2c5364" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hopemak" />
 </p>
 
 <p align="center">
