@@ -1,58 +1,41 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:1f4e5f,100:2c5364&text=Abdi%20Mekonin&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Flutter%20Developer%20|%20AI%20Engineer&descAlignY=58&descSize=20" />
-</p>
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/hopemak/hopemak/main/photo_2025-11-29_06-49-10.jpg"
-    width="160"
-    height="160"
-    style="
-      border-radius:50%;
-      border:4px solid #2c5364;
-      display:block;
-      margin:0 auto;
-    " />
-</p>
 
 <h2 align="center">🛠️ Full Tech Stack</h2>
 
 <!-- FRONTEND -->
 <h3 align="center">🎨 Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind&perline=6" height="60"/>
 </p>
 
 <!-- BACKEND -->
 <h3 align="center">⚙️ Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=6" height="60"/>
 </p>
 
 <!-- DATABASES -->
 <h3 align="center">🗄️ Databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&perline=6" height="60"/>
 </p>
 
 <!-- MOBILE -->
 <h3 align="center">📱 Mobile Development</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart&perline=6" height="60"/>
 </p>
 
 <!-- PROGRAMMING LANGUAGES -->
 <h3 align="center">💻 Programming Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,js" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,js&perline=6" height="60"/>
 </p>
 
 <!-- TOOLS -->
 <h3 align="center">🧰 Tools & Platforms</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&perline=6" height="60"/>
 </p>
-
 
 <p align="center">
   <b>🚀 Building Hope Mak Daily AI | Full Stack | Flutter | AI Engineer</b>
