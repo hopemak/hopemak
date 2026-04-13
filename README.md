@@ -15,11 +15,45 @@
     " />
 </p>
 
-<h2 align="center">🤖 AI & Learning</h2>
+<h2 align="center">🛠️ Full Tech Stack</h2>
 
+<!-- FRONTEND -->
+<h3 align="center">🎨 Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" />
 </p>
+
+<!-- BACKEND -->
+<h3 align="center">⚙️ Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+<!-- DATABASES -->
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+</p>
+
+<!-- MOBILE -->
+<h3 align="center">📱 Mobile Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+<!-- PROGRAMMING LANGUAGES -->
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,js" />
+</p>
+
+<!-- TOOLS -->
+<h3 align="center">🧰 Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+</p>
+
+
 <p align="center">
   <b>🚀 Building Hope Mak Daily AI | Full Stack | Flutter | AI Engineer</b>
 </p>
