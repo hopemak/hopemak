@@ -2,17 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:1f4e5f,100:2c5364&text=Abdi%20Mekonin&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Flutter%20Developer%20|%20AI%20Engineer&descAlignY=58&descSize=20" />
 </p>
 
-<!-- PROFESSIONAL DARK BORDER PROFILE IMAGE -->
-<p align="center" style="margin-top:-80px;">
+<p align="center">
   <img 
     src="https://raw.githubusercontent.com/hopemak/hopemak/main/photo_2025-11-29_06-49-10.jpg"
     width="160"
     height="160"
     style="
       border-radius:50%;
-      object-fit:cover;
-      border:5px solid #1f4e5f;
-      box-shadow:0 0 25px rgba(31, 78, 95, 0.6);
+      border:4px solid #2c5364;
+      display:block;
+      margin:0 auto;
     " />
 </p>
 <p align="center">
