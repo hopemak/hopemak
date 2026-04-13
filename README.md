@@ -46,22 +46,28 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&perline=6" height="60"/>
 </p>
-
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 Developer Overview</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hopemak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hopemak&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2c5364&icon_color=2c5364" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopemak&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopemak&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2c5364" height="170"/>
 </p>
-
-<h2 align="center">🔥 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hopemak&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hopemak&theme=github-dark-blue&hide_border=true" height="170"/>
 </p>
+
+---
+
+<h2 align="center">🚀 Hope Mak Daily AI Focus</h2>
+
+<p align="center">
+  <b>Full Stack Development • Flutter Apps • AI Engineering • Continuous Learning</b>
+</p>
+
 <p align="center">
   <b>🚀 Building Hope Mak Daily AI | Full Stack | Flutter | AI Engineer</b>
 </p>
