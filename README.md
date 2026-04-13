@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abdi Mekonin</h1>
+<h3 align="center">Full Stack Developer | Flutter Developer | Future AI Engineer</h3>
 
-<!--
-**hopemak/hopemak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎓 Computer Science Student  
+- 💻 Full Stack Developer (MERN Stack)  
+- 📱 Currently working on Flutter Application Development  
+- 🤖 Passionate about AI & Machine Learning  
+- 🔥 Building my brand: **Hope Mak Daily AI**  
+- 🎯 Goal: Become a Professional AI Engineer  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Development
+- 🌐 MERN Stack (MongoDB, Express, React, Node.js)  
+- 📱 Flutter (Cross-platform Mobile Apps)  
+- 🔥 Firebase  
+
+### 🤖 AI & Programming
+- 🐍 Python  
+- 🤖 AI Tools & Development  
+
+---
+
+## 📌 Current Focus
+
+- 🚀 Building real-world full-stack projects  
+- 📱 Developing modern mobile apps with Flutter  
+- 🤖 Exploring AI systems and intelligent applications  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: abdinegash41@gmail.com  
+- 🌐 Portfolio: coming soon  
+
+---
+
+⭐️ From [Abdi Mekonin](https://github.com/hopemak)
 -->
