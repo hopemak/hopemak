@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f2027,50:203a43,100:2c5364&text=Abdi%20Mekonin&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Flutter%20Developer%20|%20AI%20Engineer&descAlignY=58&descSize=20" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Abdi Mekonin</h1>
 <h3 align="center">Full Stack Developer | Flutter Developer | Future AI Engineer</h3>
 
