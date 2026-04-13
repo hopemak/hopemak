@@ -1,7 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f2027,50:203a43,100:2c5364&text=Abdi%20Mekonin&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Flutter%20Developer%20|%20AI%20Engineer&descAlignY=58&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Abdi%20Mekonin&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Flutter%20Developer%20|%20AI%20Engineer&descAlignY=58&descSize=20" />
 </p>
 
+<p align="center">
+  <img src="profile.png" width="150" style="border-radius:50%; border:4px solid #2c5364;" />
+</p>
+
+<p align="center">
+  <b>🚀 Building Hope Mak Daily AI | Full Stack | Flutter | AI Engineer</b>
+</p>
 
 <h1 align="center">Hi 👋, I'm Abdi Mekonin</h1>
 <h3 align="center">Full Stack Developer | Flutter Developer | Future AI Engineer</h3>
