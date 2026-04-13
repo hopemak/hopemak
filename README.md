@@ -47,13 +47,7 @@
 </p>
 <h2 align="center">📊 Developer Overview</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hopemak" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hopemak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hopemak&theme=github-dark-blue&hide_border=true" height="170"/>
