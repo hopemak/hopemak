@@ -53,7 +53,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hopemak&theme=github-dark-blue&hide_border=true" height="170"/>
 </p>
 
----
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
 <h2 align="center">🚀 Hope Mak Daily AI Focus</h2>
 
