@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdi Mekonin</h1>
 <h3 align="center">Full Stack Developer | Flutter Developer | Future AI Engineer</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Flutter+Developer;AI+Enthusiast;Future+AI+Engineer;Building+Hope+Mak+Daily+AI" />
+</p>
 
 ## 🚀 About Me
 
